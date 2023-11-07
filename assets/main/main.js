@@ -63,7 +63,7 @@ for(let i = 0; i < menuItems.length; i++) {
 
 const slider = document.getElementById('slider');
 const listImgs = [
-    'url(assets/image/slider/ia.jpg)',
+    'url(assets/image/slider/la.jpg)',
     'url(assets/image/slider/ny.jpg)',
     'url(assets/image/slider/chicago.jpg)',
 ];
